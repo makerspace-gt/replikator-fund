@@ -44,8 +44,8 @@ Der Förderantrag ist auf GitHub Dokumentiert, damit auch andere sich davon Insp
 
 # Zusammenfassung
 
-Mit dem Projekt Replikator wollen wir unseren Makerspace um einen Resin Drucker, Materialien für Gussformen und eine Einhausung für unseren FDM Drucker erweitern. 
-Die Gesamtkosten für das Projekt betragen ca. 3.225 €. Wir bitten die Anstiftung um eine Förderung in Höhe von 2.900 €. 
+Mit dem Projekt Replikator wollen wir unseren Makerspace um einen Resin Drucker, Materialien für Gussformen und eine Einhausung für unseren FDM Drucker erweitern.  
+Die Gesamtkosten für das Projekt betragen ca. 3.225 €. Wir bitten die Anstiftung um eine Förderung in Höhe von 2.900 €.  
 Die Einrichtungszeit für die Anschaffungen beträgt ca. 3x 10 Stunden mit zwei Personen. Die Workshops für die Anschaffungen brauchen ca. 4-5 Stunden.
 
 i.A. Michael Prange 
@@ -53,13 +53,13 @@ i.A. Michael Prange
 Makerspace Gütersloh e.V.
 -- Vorstand --
 
-c/o Die Weberei - Bürgerkiez gGmbH
-Bogenstraße 1-8
+c/o Die Weberei - Bürgerkiez gGmbH  
+Bogenstraße 1-8  
 33330 Gütersloh
 
 VR 1720 Gütersloh
 
-IBAN: DE52 4786 0125 1226 2315 00
+IBAN: DE52 4786 0125 1226 2315 00  
 BIC: GENODEM1GTL
 
 ---
