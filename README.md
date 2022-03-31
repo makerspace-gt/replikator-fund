@@ -99,3 +99,32 @@ BIC: GENODEM1GTL
 [32]: https://smile.amazon.de/dp/B01HRHVXM2
 [33]: https://github.com/makerspace-gt/replikator-fund
 [34]: https://makerspace-gt.de/unterstuetzer/
+
+# weitere Informationen
+
+> wie viele Mitglieder hat der Verein
+
+Der Verein hat aktuell 26 Mitglieder
+
+---
+> wie viele Nutzer*innen habt ihr insgesamt so?
+
+Neben den Mitgliedern haben wir aktuell noch 12 weitere Personen die gelegentlich in der Werkstatt basteln.
+Bei unserem monatlichen Repair Café gibt es immer wieder 1-2 Interessierte die sich für den Makerspace interessieren.
+
+---
+> Wie finanziert ihr den laufenden Betrieb
+
+Wie beschrieben: 
+
+> Der Betrieb des Replikator soll anschließend gegen Nutzungskosten erfolgen. Mitglieder des Vereins zahlen die verbrauchten Materialkosten, Gäste pauschal das Doppelte. Unser Beitragsmodell ist so gestaltet, dass möglichst alle die Werkstatt nutzen können. Wir haben einen Mindestbeitrag von 9 € ohne Begründung und 5 € mit Begründung. In dem Beitrag ist ein monatliches Freikontingent für Materialien von 5 € enthalten.
+
+---
+> wie sind die Öffnungszeiten geregelt?
+
+Wir haben uns dies Jahr das Motto "Wir wollen uns mehr Treffen (soweit möglich)" gesetzt. In den letzten zwei Jahren habe wir keine öffentlichen Treffen gehabt, sondern uns nur in kleinen Gruppen verabredet.  
+Seit Februar treffen wir uns wieder regelmäßig Mittwochs ab 19 Uhr und Sonntags ab 11 Uhr. Wir machen jedoch noch keine Werbung dafür, da die Inzidenzen noch so hoch sind. Wenn sich neue Personen melden dürfen sie aber gerne dazu kommen.
+
+Wenn es denn funktioniert wird auch eine Heatmap aus dem SpaceAPI Projekt mit Daten befüllt um die Öffnungszeiten zu visualisieren:
+
+https://mapall.space/heatmap//show.php?id=Makerspace+G%C3%BCtersloh
