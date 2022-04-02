@@ -12,7 +12,7 @@
 | 10.1  | 2x Beistelltisch               | IKEA              | LACK Beistelltisch, schwarz, 55x55 cm                 | [35] |  17,88 € |    0 % | 0,00 € |   01.04.2022   | 01.04.2022  | [Beistelltisch - IKEA.pdf](Belege/Beistelltisch%20-%20IKEA.pdf)                   |
 |  12   | Resin zum Gießen               | Craft Resin       |                                                       |      |          |  100 % |        |                |             |                                                                                   |
 |  15   | Messbecher                     | hearkey           | Silikon Messbecher Set 22 Stück                       | [29] |  12,59 € |   10 % | 1,40 € |   31.03.2022   | 01.04.2022  | [Messbecher - hearkey.pdf](Belege/Messbecher%20-%20hearkey.pdf)                   |
-|  16   | Wiederverwendbare Rührstäbchen | Zeriseboom DE     | 2x Silikon Spatel, 2x Silikon Bürste, 6x Rührstäbchen | [30] |  12,99 € |    0 % | 0,00 € |   01.04.2022   |             |                                                                                   |
+|  16   | Wiederverwendbare Rührstäbchen | Zeriseboom DE     | 2x Silikon Spatel, 2x Silikon Bürste, 6x Rührstäbchen | [30] |  12,99 € |    0 % | 0,00 € |   01.04.2022   |             | [Rührstäbchen - Zeriseboom DE.pdf](Belege/Rührstäbchen%20-%20Zeriseboom%20DE.pdf) |
 |  18   | Vakuumkammer                   | BACOENG           | 12L Vakuumkammer mit 85L/Min Einstufige Vakuumpumpe   | [32] | 189,99 € |    0 % | 0,00 € |   01.04.2022   |             |                                                                                   |
 
 
