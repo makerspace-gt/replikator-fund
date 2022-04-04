@@ -16,6 +16,7 @@
 |  12   | Resin zum Gießen               | Craft Resin       |                                                       |      |          |  100 % |        |                |             |                                                                                                 |
 |  15   | Messbecher                     | hearkey           | Silikon Messbecher Set 22 Stück                       | [29] |  12,59 € |   10 % | 1,40 € |   31.03.2022   | 01.04.2022  | [Messbecher - hearkey.pdf](Belege/Messbecher%20-%20hearkey.pdf)                                 |
 |  16   | Wiederverwendbare Rührstäbchen | Zeriseboom DE     | 2x Silikon Spatel, 2x Silikon Bürste, 6x Rührstäbchen | [30] |  12,99 € |    0 % | 0,00 € |   01.04.2022   | 04.04.2022  | [Rührstäbchen - Zeriseboom DE.pdf](Belege/Rührstäbchen%20-%20Zeriseboom%20DE.pdf)               |
+|  17   | UV-Lampe                       | online_trixx      | UV LED Taschenlampe, 395-400 nm                       | [31] |  19,90 € |    0 % | 0,00 € |   04.04.2022   |             |                                                                                                 |
 |  18   | Vakuumkammer                   | BACOENG           | 12L Vakuumkammer mit 85L/Min Einstufige Vakuumpumpe   | [32] | 189,99 € |    0 % | 0,00 € |   01.04.2022   | 04.04.2022  | [Vakuumkammer - BACOENG.pdf](Belege/Vakuumkammer%20-%20BACOENG.pdf)                             |
 
 
@@ -27,6 +28,7 @@
 [24]: https://www.prusaprinters.org/prints/17-original-prusa-i3-mk3-enclosure-ikea-lack-table-pr
 [29]: https://smile.amazon.de/dp/B0948HLCNH
 [30]: https://smile.amazon.de/dp/B094J2R1HR
+[31]: https://www.ebay.de/itm/383173499784
 [32]: https://smile.amazon.de/dp/B01HRHVXM2
 [35]: https://www.ikea.com/de/de/p/lack-beistelltisch-schwarz-20011408
 [36]: https://smile.amazon.de/dp/B086ZN38KR
