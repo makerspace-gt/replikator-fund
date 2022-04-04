@@ -5,6 +5,7 @@
 
 |  Nr.  | Was                            | Verkäufer         | Produkt                                               | Link |    Preis | Rabatt | Rabatt | Rechnungsdatum | Lieferdatum | Beleg                                                                                           |
 | :---: | ------------------------------ | ----------------- | ----------------------------------------------------- | ---- | -------: | -----: | -----: | :------------: | :---------: | ----------------------------------------------------------------------------------------------- |
+|   4   | Isopropanol                    | Cosi-Nails        | 5,0 L Isopropanol 99,9%                               | [36] |  24,90 € |    0 % | 0,00 € |   04.04.2022   |             |                                                                                                 |
 |   5   | Nitril-Einweghandschuhe        | sfmedicalproducts | puderfrei, latexfrei, 100 Stück, L                    | [19] |  12,99 € |    0 % | 0,00 € |   31.03.2022   | 04.04.2022  | [Einweghandschuhe - sfmedicalproducts.pdf](Belege/Einweghandschuhe%20-%20sfmedicalproducts.pdf) |
 |   6   | Nitril-Einweghandschuhe        | sfmedicalproducts | puderfrei, latexfrei, 100 Stück, M                    | [20] |  12,99 € |    0 % | 0,00 € |   31.03.2022   | 04.04.2022  | [Einweghandschuhe - sfmedicalproducts.pdf](Belege/Einweghandschuhe%20-%20sfmedicalproducts.pdf) |
 |   7   | 2x Silikonmatten               | Foepoge           | 71x51 cm                                              | [21] |  37,78 € |    0 % | 0,00 € |   01.04.2022   | 04.04.2022  | [Silikonmatte - Foepoge.pdf](Belege/Messbecher%20-%20hearkey.pdf)                               |
@@ -24,3 +25,4 @@
 [30]: https://smile.amazon.de/dp/B094J2R1HR
 [32]: https://smile.amazon.de/dp/B01HRHVXM2
 [35]: https://www.ikea.com/de/de/p/lack-beistelltisch-schwarz-20011408
+[36]: https://smile.amazon.de/dp/B086ZN38KR
