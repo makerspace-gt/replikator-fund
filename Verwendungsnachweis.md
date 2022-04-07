@@ -17,7 +17,7 @@
 |  14   | Epoxidharz Farbe               | Best Herman DE    | Zwanzer Epoxidharz Farbe Set 20 Colours - je 10ml     | [28] |  14,44 € |    0 % | 0,00 € |  04.04.2022  | 05.04.2022  | [Epoxidharz Farbe - Best Herman DE.pdf](Belege/Epoxidharz%20Farbe%20-%20Best%20Herman%20DE.pdf) |
 |  15   | Messbecher                     | hearkey           | Silikon Messbecher Set 22 Stück                       | [29] |  12,59 € |   10 % | 1,40 € |  31.03.2022  | 01.04.2022  | [Messbecher - hearkey.pdf](Belege/Messbecher%20-%20hearkey.pdf)                                 |
 |  16   | Wiederverwendbare Rührstäbchen | Zeriseboom DE     | 2x Silikon Spatel, 2x Silikon Bürste, 6x Rührstäbchen | [30] |  12,99 € |    0 % | 0,00 € |  01.04.2022  | 04.04.2022  | [Rührstäbchen - Zeriseboom DE.pdf](Belege/Rührstäbchen%20-%20Zeriseboom%20DE.pdf)               |
-|  17   | UV-Lampe                       | online_trixx      | UV LED Taschenlampe, 395-400 nm                       | [31] |  19,90 € |    0 % | 0,00 € |  04.04.2022  |             |                                                                                                 |
+|  17   | UV-Lampe                       | online_trixx      | UV LED Taschenlampe, 395-400 nm                       | [31] |  19,90 € |    0 % | 0,00 € |  04.04.2022  | 07.04.2022  | [UV-Lampe - online_trixx.pdf](Belege/UV-Lampe%20-%20online_trixx.pdf)                           |
 |  18   | Vakuumkammer                   | BACOENG           | 12L Vakuumkammer mit 85L/Min Einstufige Vakuumpumpe   | [32] | 189,99 € |    0 % | 0,00 € |  01.04.2022  | 04.04.2022  | [Vakuumkammer - BACOENG.pdf](Belege/Vakuumkammer%20-%20BACOENG.pdf)                             |
 
 
