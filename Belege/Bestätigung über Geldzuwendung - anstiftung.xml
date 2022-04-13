@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml-data xmlns="http://www.lucom.com/ffw/xml-data-1.0.xsd">
+	<form>catalog://Steuerformulare/gemein/034122</form>
+	<instance>
+		<datarow>
+			<element id="ID_USER">.anonymous</element>
+			<element id="aussteller">Makerspace Gütersloh e.V.
+Bogenstraße 1-8
+33330 Gütersloh</element>
+			<element id="name">anstiftung
+Daiserstraße 15
+81371 München</element>
+			<element id="wert">2.900.- Euro</element>
+			<element id="wert2">zweitausendneunhundert Euro</element>
+			<element id="datum">05.04.2022 00:00:00</element>
+			<element id="k1">false</element>
+			<element id="k2">true</element>
+			<element id="k3">false</element>
+			<element id="k4">true</element>
+			<element id="zwecke">Anschaffung eines PRUSA Resin-Drucker und Zubehör für das Projekt "Replikator"</element>
+			<element id="k5">false</element>
+			<element id="stnr2">351/5913/8437</element>
+			<element id="finamt2">Gütersloh</element>
+			<element id="datum3">13.07.2020 00:00:00</element>
+			<element id="ort_datum">Gütersloh, 11. April 2022, Michael Prange</element>
+			<element id="zwecke2b2">Förderung von Wissenschaft, Forschung und Bildung, sowie der Kunst und Kultur</element>
+		</datarow>
+	</instance>
+</xml-data>
+
