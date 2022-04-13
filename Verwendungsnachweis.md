@@ -18,6 +18,7 @@
 | 10.1  | 2x Beistelltisch               | IKEA              | LACK Beistelltisch, schwarz, 55x55 cm                 | [35] |    17,88 € |   0,00 € |  01.04.2022  | 01.04.2022  | [Beistelltisch - IKEA.pdf](Belege/Beistelltisch%20-%20IKEA.pdf)                                                                                                                             |
 | 10.2  | 3D-Druck Filament              | Prusa Research    | Prusament PETG Prusa Orange 1kg                       | [38] |    28,49 € |   1,50 € |  07.04.2022  |             | [Resin 3D-Drucker + Resin zum Drucken + 3D-Druck Filament - Prusa Research.pdf](Belege/Resin%203D-Drucker%20+%20Resin%20zum%20Drucken%20+%203D-Druck%20Filament%20-%20Prusa%20Research.pdf) |
 |  11   | Dubliersilikon                 | Wagner Silicones  | WAGNERSIL 22 NF Dubliersilikon, 1 kg                  | [25] |    40,68 € |   0,00 € |  04.04.2022  | 07.04.2022  | [Dubliersilikon - Wagner Silicones.pdf](Belege/Dubliersilikon%20-%20Wagner%20Silicones.pdf)                                                                                                 |
+|  12   | Resin zum Gießen               | Craft Resin       | Lebensmittelecht,  UV- und Hitzebeständig (1L)        | [26] |     0,00 € |  39,99 € |  01.04.2022  | 13.04.2022  |                                                                                                                                                                                             |
 |  14   | Epoxidharz Farbe               | Best Herman DE    | Zwanzer Epoxidharz Farbe Set 20 Colours - je 10ml     | [28] |    14,44 € |   0,00 € |  04.04.2022  | 05.04.2022  | [Epoxidharz Farbe - Best Herman DE.pdf](Belege/Epoxidharz%20Farbe%20-%20Best%20Herman%20DE.pdf)                                                                                             |
 |  15   | Messbecher                     | hearkey           | Silikon Messbecher Set 22 Stück                       | [29] |    12,59 € |   1,40 € |  31.03.2022  | 01.04.2022  | [Messbecher - hearkey.pdf](Belege/Messbecher%20-%20hearkey.pdf)                                                                                                                             |
 |  16   | Wiederverwendbare Rührstäbchen | Zeriseboom DE     | 2x Silikon Spatel, 2x Silikon Bürste, 6x Rührstäbchen | [30] |    12,99 € |   0,00 € |  01.04.2022  | 04.04.2022  | [Rührstäbchen - Zeriseboom DE.pdf](Belege/Rührstäbchen%20-%20Zeriseboom%20DE.pdf)                                                                                                           |
@@ -34,6 +35,7 @@
 [23]: https://smile.amazon.de/dp/B087TB19MS
 [24]: https://www.prusaprinters.org/prints/17-original-prusa-i3-mk3-enclosure-ikea-lack-table-pr
 [25]: https://smile.amazon.de/dp/B01703HDWW
+[26]: https://smile.amazon.de/dp/B07PN68WXY
 [28]: https://smile.amazon.de/dp/B088STZWN7
 [29]: https://smile.amazon.de/dp/B0948HLCNH
 [30]: https://smile.amazon.de/dp/B094J2R1HR
