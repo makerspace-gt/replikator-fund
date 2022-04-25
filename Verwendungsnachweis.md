@@ -27,6 +27,7 @@
 |  18   | Vakuumkammer                   | BACOENG           | 12L Vakuumkammer mit 85L/Min Einstufige Vakuumpumpe   | [32] |   189,99 € |   0,00 € |  01.04.2022  | 04.04.2022  | [Vakuumkammer - BACOENG.pdf](Belege/Vakuumkammer%20-%20BACOENG.pdf)                                                                                                                         |
 |  19   | 2x Gesichtsschutzschild        | Prusa Research    | Face shield PRUSA PRO (2 pcs)                         | [40] |     0,00 € |  11,64 € |  07.04.2022  |             | [Resin 3D-Drucker + Resin zum Drucken + 3D-Druck Filament - Prusa Research.pdf](Belege/Resin%203D-Drucker%20+%20Resin%20zum%20Drucken%20+%203D-Druck%20Filament%20-%20Prusa%20Research.pdf) |
 |  20   | 2x Atemschutzmaske             | YbzJhDN           | 6800 Vollmaske                                        | [41] |    89,00 € |   0,00 € |  25.04.2022  |             |                                                                                                                                                                                             |
+|  21   | Waage                          | Amazon            | Soehnle Page Profi Digitalwaage für max. 15 kg        | [42] |    28,23 € |   0,00 € |  25.04.2022  |             |                                                                                                                                                                                             |
 
 
 [15]: https://www.prusa3d.com/de/produkt/original-prusa-sl1s-speed-3d-printer-cw1s-bundle
@@ -51,3 +52,4 @@
 [39]: https://www.prusa3d.com/de/produkt/prusament-resin-tough-2/
 [40]: https://www.prusa3d.com/de/produkt/face-shield-prusa-pro-2-pcs/
 [41]: https://smile.amazon.de/dp/B07X1WBDM8
+[42]: https://smile.amazon.de/dp/B002RLFS20
